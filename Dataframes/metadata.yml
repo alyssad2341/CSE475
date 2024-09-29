@@ -1,0 +1,12 @@
+---
+:id: 267474721
+:submitters:
+- :name: Alyssa Duranovic
+  :email: aduranov@asu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-09-15 00:47:03.359058000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-09-14 17:47:03.359058000 Z
+:status: processed
+:score: 10.0
